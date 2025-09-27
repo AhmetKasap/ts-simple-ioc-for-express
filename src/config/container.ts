@@ -28,3 +28,5 @@ class Container {
 }
 
 export const container = new Container();
+
+import "./container.inject";
