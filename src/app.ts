@@ -2,7 +2,6 @@ import express from "express";
 import { createServer, Server } from "http";
 import type { Express } from "express";
 
-
 class App {
   private app : Express;
   private httpServer: Server;
